@@ -6,10 +6,10 @@ Project is based on React-JS and involves different functionalities like react-r
 
 ##Running Commands:
 
-git clone https://github.com/Ayush1197/GOLDFINCH.git
-cd GOLDFINCH
-npm install
-npm start 
-and the project goes liv @localhost
+-git clone https://github.com/Ayush1197/GOLDFINCH.git
+-cd GOLDFINCH
+-npm install
+-npm start 
+-and the project goes liv @localhost
 
 **Note: If any modules are missing just type the command in terminal : npm i "module_name"
